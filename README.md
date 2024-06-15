@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Nardy (@desnes)
 
 ### About Me
-I'm a passionate software engineering student with a keen interest in software development and a love for learning new technologies. Currently, I'm focused on web development and exploring the world of open source projects.
+I'm a passionate software engineering student with a keen interest in software development and a love for learning new technologies. Currently, I'm focused on web development, learning ethical hacking and exploring the world of open source projects.
 
 ### 🔧 Skills
 - **Languages**: JavaScript, Typescript, Python, Java, C/C++, PHP, Kotlin
