@@ -10,7 +10,7 @@ I'm a passionate software engineering student with a keen interest in software d
 - **Databases**: MySQL, MongoDB, Postgres
 - **Data Visualization**: Power BI
 - **Design**: Figma, AutoCAD
-- **Tools**: Git, Docker, VS Code, Notion, Canva
+- **Tools**: Git, Docker, VS Code, Notion, Canva, Nmap, Metasploit, Wireshark
 
 ### 📌 Interests
 - **Software Development**: Exploring new programming languages, tools, and frameworks.
@@ -19,7 +19,7 @@ I'm a passionate software engineering student with a keen interest in software d
 - **Data Visualization**: Creating insightful and interactive visualizations using Power BI.
 - **Cloud Computing**: Learning about and working with cloud services such as AWS, Azure, and Google Cloud.
 - **Cybersecurity**: Understanding security principles and practices to protect systems and data.
-- **Ethical Hacking**: Exploring ethical hacking techniques to identify and fix vulnerabilities.
+- **Ethical Hacking**: Using Kali Linux and tools like Nmap, Metasploit, and Wireshark for penetration testing and vulnerability assessment.
 
 
 ### 🌟 Projects
