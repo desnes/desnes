@@ -18,6 +18,8 @@ I'm a passionate software engineering student with a keen interest in software d
 - **Open Source Contribution**: Collaborating on projects that benefit the community.
 - **Data Visualization**: Creating insightful and interactive visualizations using Power BI.
 - **Cloud Computing**: Learning about and working with cloud services such as AWS, Azure, and Google Cloud.
+- **Cybersecurity**: Understanding security principles and practices to protect systems and data.
+- **Ethical Hacking**: Exploring ethical hacking techniques to identify and fix vulnerabilities.
 
 
 ### 🌟 Projects
